@@ -1,6 +1,6 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.18.8'
 gem 'rspec'
 gem 'rake'
